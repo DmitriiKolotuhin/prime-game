@@ -19,17 +19,17 @@
 1. Убедитесь, что Composer установлен глобально.
 2. Установите игру:
     ```bash
-    composer global require shindasayonara/php_puchkin_iyu
+    composer global require dmitriikolotuhin/php_kolotuhin_dv
 3. Запустите игру из командной строки:
     ```bash
-    gcd
+    prime
 ## Используемые технологии
 - PHP — основной язык разработки.
 - Composer — для управления зависимостями и автозагрузки.
 - wp-cli/php-cli-tools — библиотека для удобного ввода/вывода в консоли.
 
 ## Ссылки
-- Packagist: [GCD Game](https://packagist.org/packages/shindasayonara/php_puchkin_iyu)
-- [Репозиторий на GitHub](https://github.com/shindasayonara/GCD_Game)
-- Автор: shindasayonara
+- Packagist: [Prime Game](https://packagist.org/packages/dmitriikolotuhin/php_kolotuhin_dv)
+- [Репозиторий на GitHub](https://github.com/DmitriiKolotuhin/prime-game)
+- Автор: dmitriykolotukhin
 - Лицензия: MIT
